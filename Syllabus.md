@@ -10,7 +10,7 @@
 **Office Hours:** By Appointment
 
 ## Class Site
-􏰈􏰔􏰜􏰝􏰞􏰟[https://github.com/entertainmenttechnology/morales-MTEC2250-Spring2019](https://github.com/entertainmenttechnology/morales-MTEC2250-Spring2019)
+[https://github.com/entertainmenttechnology/morales-MTEC2250-Spring2019](https://github.com/entertainmenttechnology/morales-MTEC2250-Spring2019)
 
 ## Class Meetings
 Wednesdays 6:00pm-9:20pm<br/>
@@ -45,7 +45,16 @@ Each student is also responsible for maintaining a Github Repository, updating r
 
     *All work must be submitted on time, even if you are absent on that class day. Any late assignment will drop one letter grade per class session that it is late.*
 
-## [Grading Rubric](./Grading-Rubric-fbbd9138-99e6-455c-ba93-863d1ce8019f.csv)
+## Grading Rubric
+
+| Value | Excellent | Good | Fair | Poor | Unsatisfactory | 
+|-------|-----------|------|----|----|----|
+| Concept |Core concept is intriguing, original, and well-explored |Core concept is intriguing but lacking in examination | Core concept is present and supported by the work |Core ideas are scattered without consideration |No clear concept, or work doesn’t reflect it |
+| Progress |Clear and consistent progress from ideation to execution|Progress was made, but was not consistent| Evidence of procrastination, “last minute” pushes or crunch|	Lack of progress in 1-2 areas resulting in project deficiencies|	Little to no progress shown on the project|
+|Presentation|Concept is clearly presented and strongly supported through audio, visuals, interaction, and narrative (if applicable)|	Concept is supported through presentation, but 2 or more areas of the design are lacking or distracting|	Concept is weakly supported through presentation, project requirements met at a “bare minimum” level|	1-2 presentation requirements are not met.|	3+ presentation requirements are not met.|
+|Skills|Clear demonstration of skills in all development areas (visual, text, audio, interaction, programming)|	Clear demonstration of skill in 2+ development areas	|Demonstrates skills, but omits topics covered in class.|	Evidence of skills, but underutilization of techniques learned in class|	Does not use any techniques learned in class.|
+|Collaboration|Consistently provides honest, supportive feedback to peers, responsible in meeting team goals, communicates effectively.|	Generally supportive, responsible, and good communication, with a few issues|	Multiple issues/problems with collaboration, meeting goals, or communicating|	Little to no evidence of communication, goal setting, and collaboration in a team setting.|	Disrespectful to fellow students work, with negative impacts to class/team dynamics.|
+
 
 ## Assignments
 

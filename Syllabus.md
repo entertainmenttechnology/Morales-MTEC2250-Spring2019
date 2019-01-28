@@ -55,6 +55,7 @@ Each student is also responsible for maintaining a Github Repository, updating r
 |Skills|Clear demonstration of skills in all development areas (visual, text, audio, interaction, programming)|	Clear demonstration of skill in 2+ development areas	|Demonstrates skills, but omits topics covered in class.|	Evidence of skills, but underutilization of techniques learned in class|	Does not use any techniques learned in class.|
 |Collaboration|Consistently provides honest, supportive feedback to peers, responsible in meeting team goals, communicates effectively.|	Generally supportive, responsible, and good communication, with a few issues|	Multiple issues/problems with collaboration, meeting goals, or communicating|	Little to no evidence of communication, goal setting, and collaboration in a team setting.|	Disrespectful to fellow students work, with negative impacts to class/team dynamics.|
 
+<br/>
 
 ## Assignments
 

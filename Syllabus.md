@@ -1,11 +1,11 @@
 # 3D Fabrication for Physical Computing  <br/> Course Syllabus
 
-**MTEC 2250  -3D Fabrication for Physical Computing Spring 2019**
+**MTEC 2250 E992 -3D Fabrication for Physical Computing Spring 2019**
 
 ## Instructor
 
 **Professor:** Sebastian Morales <br/>
-**email:** [sebmoralesprado@gmail.com](mailto:sebmoralesprado@gmail.com)<br/>
+**email:** [SMoralesPrado@citytech.cuny.edu](mailto:SMoralesPrado@citytech.cuny.edu)<br/>
 **Slack:** [https://mtec2250.slack.com](https://mtec2250.slack.com/)<br/>
 **Office Hours:** By Appointment
 
@@ -14,7 +14,7 @@
 
 ## Class Meetings
 Wednesdays 6:00pm-9:20pm<br/>
-Room: V-321 and V-103A
+Room: V-103A and V-321 
 
 ## Description
 A companion course to MTEC 2280, Ins and Outs, 3D Fabrication for Physical Computing is a project-oriented course that focuses on digital fabrication techniques in emerging media practices. Students deepen their knowledge of 3D design tools for use in CNC, laser cutters, 3D printers and printed circuit boards.
@@ -90,10 +90,11 @@ In order to receive disability-related academic accommodations, students must fi
 ## Schedule/Calendar
 
 **Jan 30** -Course Introduction and Overview<br/>
-**Feb 13** - Intro to Fusion 360<br/>
-**Feb 20** - 3D Printing<br/>
-**Feb 27**- Laser Cutting<br/>
-**March 6** - Designing for Existing Objects<br/>
+**Feb 6** - Intro to Fusion 360<br/>
+**Feb 13** - 3D Printing<br/>
+**Feb 20**- Laser Cutting<br/>
+**Feb 27** - Designing for Existing Objects<br/>
+**March 6** - Mid-term Ideation<br/>
 **March 13** - Mid-term Workshop<br/>
 **March 20** - Mid-term Critique<br/>
 **March 27** - Making Enclosures<br/>

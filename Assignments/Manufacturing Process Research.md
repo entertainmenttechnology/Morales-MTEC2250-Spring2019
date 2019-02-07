@@ -3,17 +3,21 @@
 Research a Manufacturing method from the list above and prepare a 7-10 minute presentation to the class. 3-5 minutes for questions
 
 ## List of Processes
+### Week 2
 - 3D Printing
 - Explosion Forming
 - Water Jet Cutting
+### Week 3:
 - Vacuum Forming
+- Blow Molding
+- Electroforming
+### TBD:
 - Laser Cutting
 - CNC Machining 
 - Ultrasinic Welding
 - Injection Molding
 - Welding 
 - Extrusion 
-- Blow Molding
 - Sand Casting
 - Electroforming
 - Die Cutting
@@ -24,7 +28,7 @@ Research a Manufacturing method from the list above and prepare a 7-10 minute pr
 - Commercial products produced though this method
 - Artistic applications
 - Pros and Cons
-- Costs?
+- Costs (of machine, of parts made by process)?
 
 The presentation will be added to the class Github Repo. 
 

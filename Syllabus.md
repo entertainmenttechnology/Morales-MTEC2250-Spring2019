@@ -92,8 +92,8 @@ In order to receive disability-related academic accommodations, students must fi
 **Jan 30** -Course Introduction and Overview<br/>
 **Feb 6** - Intro to Fusion 360<br/>
 **Feb 13** - 3D Printing<br/>
-**Feb 20**- Laser Cutting<br/>
-**Feb 27** - Designing for Existing Objects<br/>
+**Feb 20**- Designing for Existing Objects<br/>
+**Feb 27** - Laser Cutting<br/>
 **March 6** - Mid-term Ideation<br/>
 **March 13** - Mid-term Workshop<br/>
 **March 20** - Mid-term Critique<br/>

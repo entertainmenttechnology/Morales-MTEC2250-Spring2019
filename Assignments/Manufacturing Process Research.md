@@ -11,16 +11,24 @@ Research a Manufacturing method from the list above and prepare a 7-10 minute pr
 - Vacuum Forming
 - Blow Molding
 - Electroforming
-### TBD:
+
+### Week 4:
 - Laser Cutting
-- CNC Machining 
-- Ultrasinic Welding
+- Extrusion
+- Ultrasonic Welding
+
+### Week 5:
 - Injection Molding
-- Welding 
-- Extrusion 
-- Sand Casting
-- Electroforming
+- Welding
+- CNC Matchining 
+
+# Week 6:
+- Metal Spining 
 - Die Cutting
+
+### TBD:
+- Sand Casting
+
 
 ## Presentation Should include:
 - Description of the process

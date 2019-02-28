@@ -93,11 +93,11 @@ In order to receive disability-related academic accommodations, students must fi
 **Feb 6** - Intro to Fusion 360<br/>
 **Feb 13** - 3D Printing<br/>
 **Feb 20**- Designing for Existing Objects<br/>
-**Feb 27** - Laser Cutting<br/>
-**March 6** - Mid-term Ideation<br/>
-**March 13** - Mid-term Workshop<br/>
-**March 20** - Mid-term Critique<br/>
-**March 27** - Making Enclosures<br/>
+**Feb 27** - Making Enclosures<br/>
+**March 6** - Laser Cutting<br/>
+**March 13** - Mid-term Ideation<br/>
+**March 20** - Mid-term Workshop<br/>
+**March 27** - Mid-term Critique<br/>
 **April 3** - CNC Machining<br/>
 **April 10** - Special Topics I<br/>
 **April 17** - Special Topics II<br/>
